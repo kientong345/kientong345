@@ -38,13 +38,13 @@
 ###
 
 <div align="left">
-  <a href="kien.tong.7399786" target="_blank">
+  <a href="https://www.facebook.com/kien.tong.7399786" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="kientong321@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kientong321@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="tống-duy-kiên-5a4127300" target="_blank">
+  <a href="https://www.linkedin.com/in/t%E1%BB%91ng-duy-ki%C3%AAn-5a4127300" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
