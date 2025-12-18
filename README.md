@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kientong345&theme=vue&area=true&hide_title=false&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
