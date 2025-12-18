@@ -59,6 +59,6 @@
 
 ###
 
-<p align="left">To experiment is to fail. To fail is to learn. To learn is to advance.</p>
+<h3 align="left">To experiment is to fail. To fail is to learn. To learn is to advance.</h3>
 
 ###
