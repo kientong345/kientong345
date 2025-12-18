@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kientong345&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kientong345&theme=vue&area=true&hide_title=true&hide_border=true" height="130" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kientong345&theme=vue&area=true&hide_title=true&hide_border=true" height="140" alt="activity-graph graph"  />
 </div>
 
 ###
